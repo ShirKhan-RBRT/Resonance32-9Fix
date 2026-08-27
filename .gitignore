@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+*.user
+*memory.bin
+artifacts/
+tools/
+Resonance-1.2.0.0-memory.bin
+Resonance32x9Patcher.obj
+src/
